@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 
 "pyqt5" = "*"
+qtpy = "*"
 
 
 [dev-packages]

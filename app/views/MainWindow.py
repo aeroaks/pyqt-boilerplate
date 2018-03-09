@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import QMainWindow
+from qtpy.QtWidgets import QMainWindow
 
 from .MainWindow_ui import Ui_MainWindow
 
